@@ -1,5 +1,6 @@
 # CALCULATOR-USING-SWITCH-CASE-IN-C
 This is a very basic calculator made using only switch case for two numbers
+```c
 #include <stdio.h>
 #include<math.h>
 float main()
@@ -34,3 +35,4 @@ float main()
     }
     return 0;
 }
+```
